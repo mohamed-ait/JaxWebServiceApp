@@ -1,4 +1,4 @@
-## Mise en œuvre desweb services avec JAX-WS
+## Mise en œuvre des web services avec JAX-WS
 ### L'énoncé de l'applicaion : 
 ![image](https://user-images.githubusercontent.com/80115513/198906016-6e623be9-6815-4126-9816-bf2efe8300fb.png)
 ### 1- La création de la web service  :
