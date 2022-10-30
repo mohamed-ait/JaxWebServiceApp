@@ -14,6 +14,7 @@
 ![image](https://user-images.githubusercontent.com/80115513/198906235-5bfa550c-0bdf-4759-bd7e-49345b6ebc15.png)
 ### 3- Consulter et analyser le WSDL avec un Browser HTTP  :
 ![image](https://user-images.githubusercontent.com/80115513/198906294-24189d8e-b100-46e0-93b5-9f22f5279aca.png)
+![image](https://user-images.githubusercontent.com/80115513/198906781-396d7504-d462-458b-ba71-75e4d3e21c15.png)
 ### 4- Tester les opérations du web service avec l'outil  SoapUI  :
 ![image](https://user-images.githubusercontent.com/80115513/198906323-153cd603-3a1f-47f0-99cc-2d1d91748a8c.png)
 ### 5-Créer un Client SOAP Java : 
