@@ -23,6 +23,8 @@
 ### 6-Créer un Client SOAP PHP 
 ![image](https://user-images.githubusercontent.com/80115513/198915546-8e59e4bb-068d-447a-b231-d44f40ed83b8.png)
 ![image](https://user-images.githubusercontent.com/80115513/198915769-3ec041c6-e8cc-467a-a1b7-e52b489621eb.png)
+### Tester la fonction convert :
 ![image](https://user-images.githubusercontent.com/80115513/198918987-32a35164-b3cd-43f8-ad46-ee058ab7d980.png)
+### Tester la fonction getComptes :
 ![image](https://user-images.githubusercontent.com/80115513/198919023-ef65d3e8-1209-42f3-a757-f8c0c715b11c.png)
 
