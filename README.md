@@ -20,3 +20,7 @@
 ### 5-Créer un Client SOAP Java : 
 ![image](https://user-images.githubusercontent.com/80115513/198906393-495ef765-24b0-498d-9530-18d2ed23316f.png)
 ![image](https://user-images.githubusercontent.com/80115513/198906419-202e23a1-9b9d-4534-8ad6-92e03da557b2.png)
+### 6-Créer un Client SOAP PHP 
+![image](https://user-images.githubusercontent.com/80115513/198915546-8e59e4bb-068d-447a-b231-d44f40ed83b8.png)
+![image](https://user-images.githubusercontent.com/80115513/198915596-63f896bc-e5f4-450d-ab64-5e350b4e1c11.png)
+![image](https://user-images.githubusercontent.com/80115513/198915660-0349e652-96d3-4139-8ec9-f9b7dba8644b.png)
